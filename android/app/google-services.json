@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1033653388765",
+    "project_id": "ecofamid-122",
+    "storage_bucket": "ecofamid-122.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033653388765:android:828b48a1382e200f0c2234",
+        "android_client_info": {
+          "package_name": "com.example.capstone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033653388765-ggrrp5ep18tvptnbu5llk5a79uuc6qic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvIA_GAiDI-lBODSiE62dx6NGetj-XtA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033653388765-ggrrp5ep18tvptnbu5llk5a79uuc6qic.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1033653388765-mk3r4guv90ret0o2ms79u4ffcnr4pd1s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.twitter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033653388765:android:79d1b023b921ba7a0c2234",
+        "android_client_info": {
+          "package_name": "com.example.twitter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033653388765-ggrrp5ep18tvptnbu5llk5a79uuc6qic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvIA_GAiDI-lBODSiE62dx6NGetj-XtA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033653388765-ggrrp5ep18tvptnbu5llk5a79uuc6qic.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1033653388765-mk3r4guv90ret0o2ms79u4ffcnr4pd1s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.twitter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
